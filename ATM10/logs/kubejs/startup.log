@@ -1,0 +1,16 @@
+[10:41:48] [INIT] KubeJS 2101.7.0-build.171; MC 2101 NeoForge
+[10:41:48] [INIT] Loaded plugins:
+[10:41:48] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[10:41:48] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[10:41:48] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[10:41:48] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[10:41:48] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[10:41:48] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[10:41:48] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[10:41:48] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[10:41:49] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.147 s
+[10:41:49] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.001 s
+[10:41:49] [INFO] startup_scripts:Mekanism/Compatibility.js#15: Loaded Java class 'mekanism.api.chemical.Chemical'
+[10:41:49] [INFO] startup_scripts:Mekanism/Compatibility.js#16: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
+[10:41:49] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.02 s
+[10:41:49] [INFO] Loaded 3/3 KubeJS startup scripts in 1.297 s with 0 errors and 0 warnings

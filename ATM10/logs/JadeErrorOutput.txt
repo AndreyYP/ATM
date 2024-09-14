@@ -1,0 +1,48 @@
+14 сент. 2024 г., 01:34:14
+snownee.jade.addon.universal.ItemStorageProvider$ForBlock@2505bf52
+java.lang.IllegalStateException: Cannot encode empty ItemStack
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.ItemStack.save(ItemStack.java:409)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.lambda$putData$2(ItemStorageProvider.java:235)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.api.view.ViewGroup.save(ViewGroup.java:29)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.api.view.ViewGroup.saveList(ViewGroup.java:69)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:230)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:269)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+14 сент. 2024 г., 12:16:00
+snownee.jade.addon.universal.ItemStorageProvider$ForBlock@79a19840
+java.lang.IllegalStateException: Cannot encode empty ItemStack
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.ItemStack.save(ItemStack.java:409)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.lambda$putData$2(ItemStorageProvider.java:235)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.api.view.ViewGroup.save(ViewGroup.java:29)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.api.view.ViewGroup.saveList(ViewGroup.java:69)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:230)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:269)
+	at TRANSFORMER/jade@15.3.4+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+

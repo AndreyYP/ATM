@@ -1,0 +1,855 @@
+{
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-09-11 21:50:44 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-09-11 21:50:45 +0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2024-09-12 02:32:23 +0500",
+      "mountains": "2024-09-12 02:31:05 +0500",
+      "silver_birch_forest": "2024-09-11 21:55:47 +0500",
+      "temperate_grove": "2024-09-12 00:45:04 +0500",
+      "cold_river": "2024-09-11 21:55:54 +0500",
+      "barley_fields": "2024-09-11 22:11:49 +0500",
+      "pumpkin_fields": "2024-09-11 21:54:29 +0500",
+      "shrubland": "2024-09-11 23:05:53 +0500",
+      "pine_slopes": "2024-09-12 02:31:46 +0500",
+      "redstone_abyss": "2024-09-12 15:49:15 +0500",
+      "glistering_meadow": "2024-09-12 15:48:46 +0500",
+      "prairie": "2024-09-11 22:07:31 +0500",
+      "rocky_meadow": "2024-09-11 22:06:47 +0500",
+      "mycotoxic_undergrowth": "2024-09-12 15:40:06 +0500",
+      "pine_taiga": "2024-09-12 02:13:25 +0500",
+      "ochard": "2024-09-11 21:50:45 +0500",
+      "flower_fields": "2024-09-12 15:57:28 +0500",
+      "highland_fields": "2024-09-11 23:07:56 +0500",
+      "maple_forest": "2024-09-12 15:59:47 +0500",
+      "autumnal_maple_forest": "2024-09-11 21:54:55 +0500",
+      "prismachasm": "2024-09-11 23:06:59 +0500",
+      "magnolia_highlands": "2024-09-12 02:34:53 +0500",
+      "lupine_plains": "2024-09-12 02:32:09 +0500"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2024-09-12 02:32:23 +0500",
+      "mountains": "2024-09-12 02:31:05 +0500",
+      "silver_birch_forest": "2024-09-11 21:55:47 +0500",
+      "temperate_grove": "2024-09-12 00:45:04 +0500",
+      "cold_river": "2024-09-11 21:55:54 +0500",
+      "barley_fields": "2024-09-11 22:11:49 +0500",
+      "pumpkin_fields": "2024-09-11 21:54:29 +0500",
+      "shrubland": "2024-09-11 23:05:53 +0500",
+      "pine_slopes": "2024-09-12 02:31:46 +0500",
+      "prairie": "2024-09-11 22:07:31 +0500",
+      "rocky_meadow": "2024-09-11 22:06:47 +0500",
+      "pine_taiga": "2024-09-12 02:13:25 +0500",
+      "ochard": "2024-09-11 21:50:45 +0500",
+      "flower_fields": "2024-09-12 15:57:28 +0500",
+      "highland_fields": "2024-09-11 23:07:56 +0500",
+      "maple_forest": "2024-09-12 15:59:47 +0500",
+      "autumnal_maple_forest": "2024-09-11 21:54:55 +0500",
+      "magnolia_highlands": "2024-09-12 02:34:53 +0500",
+      "lupine_plains": "2024-09-12 02:32:09 +0500"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-09-11 21:50:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2024-09-11 21:51:45 +0500",
+      "has_wct": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2024-09-11 21:51:45 +0500",
+      "has_wct": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2024-09-11 21:51:45 +0500",
+      "has_wpt": "2024-09-11 21:51:45 +0500",
+      "has_wct": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2024-09-11 21:51:45 +0500",
+      "golden_apple": "2024-09-11 23:57:19 +0500"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2024-09-11 21:51:45 +0500",
+      "has_wpt": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2024-09-11 21:51:45 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-09-12 02:12:28 +0500",
+      "minecraft:old_growth_pine_taiga": "2024-09-12 16:01:18 +0500",
+      "minecraft:forest": "2024-09-12 02:12:33 +0500",
+      "minecraft:taiga": "2024-09-12 17:50:53 +0500",
+      "minecraft:sunflower_plains": "2024-09-11 23:11:32 +0500",
+      "minecraft:river": "2024-09-11 21:52:33 +0500",
+      "minecraft:grove": "2024-09-11 23:05:00 +0500",
+      "minecraft:lush_caves": "2024-09-11 22:23:35 +0500",
+      "minecraft:dripstone_caves": "2024-09-11 23:06:07 +0500",
+      "minecraft:savanna": "2024-09-12 16:16:22 +0500",
+      "minecraft:plains": "2024-09-11 23:06:02 +0500"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-09-11 21:53:29 +0500"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2024-09-11 21:53:34 +0500"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-09-11 21:53:34 +0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-11 21:53:34 +0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-09-11 21:53:34 +0500",
+      "bread": "2024-09-11 22:09:23 +0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-11 21:53:34 +0500"
+    },
+    "done": true
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2024-09-11 21:53:34 +0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "silver_birch_log": "2024-09-11 21:55:27 +0500",
+      "yellow_bioshroom_stem": "2024-09-12 15:41:34 +0500"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-11 21:55:39 +0500"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-09-11 21:58:50 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-09-11 21:59:21 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-09-11 22:01:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-11 22:02:02 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-09-11 22:03:38 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench_charged": {
+    "criteria": {
+      "0": "2024-09-11 22:10:11 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2024-09-11 22:10:19 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2024-09-11 22:10:19 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:air_compressor": {
+    "criteria": {
+      "0": "2024-09-11 22:10:39 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2024-09-11 22:10:39 +0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:cika_woods": "2024-09-12 16:00:11 +0500",
+      "biomeswevegone:araucaria_savanna": "2024-09-11 22:17:36 +0500",
+      "biomeswevegone:maple_taiga": "2024-09-12 16:01:47 +0500",
+      "biomeswevegone:orchard": "2024-09-11 23:10:50 +0500",
+      "biomeswevegone:ironwood_gour": "2024-09-12 16:15:55 +0500",
+      "biomeswevegone:sakura_grove": "2024-09-11 23:10:22 +0500",
+      "biomeswevegone:prairie": "2024-09-11 23:05:47 +0500",
+      "biomeswevegone:baobab_savanna": "2024-09-12 16:15:53 +0500",
+      "biomeswevegone:temperate_grove": "2024-09-11 23:03:27 +0500",
+      "biomeswevegone:zelkova_forest": "2024-09-12 16:01:03 +0500",
+      "biomeswevegone:allium_shrubland": "2024-09-11 23:05:39 +0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:araucaria_savanna": "2024-09-11 22:17:36 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-09-11 22:18:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-09-11 22:19:11 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-09-11 22:20:47 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-09-12 01:10:18 +0500",
+      "minecraft:blaze": "2024-09-12 16:39:08 +0500",
+      "minecraft:skeleton": "2024-09-11 22:23:08 +0500",
+      "minecraft:phantom": "2024-09-14 01:05:24 +0500",
+      "minecraft:zombified_piglin": "2024-09-12 15:47:13 +0500",
+      "minecraft:wither_skeleton": "2024-09-12 16:38:25 +0500",
+      "minecraft:ghast": "2024-09-12 16:37:55 +0500",
+      "minecraft:hoglin": "2024-09-12 15:49:49 +0500",
+      "minecraft:silverfish": "2024-09-12 03:39:31 +0500",
+      "minecraft:enderman": "2024-09-12 16:42:37 +0500",
+      "minecraft:magma_cube": "2024-09-12 16:38:34 +0500",
+      "minecraft:endermite": "2024-09-12 15:54:19 +0500",
+      "minecraft:spider": "2024-09-12 01:28:50 +0500",
+      "minecraft:zombie": "2024-09-11 22:20:47 +0500",
+      "minecraft:creeper": "2024-09-12 01:12:19 +0500",
+      "minecraft:drowned": "2024-09-12 15:37:10 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-09-11 22:20:47 +0500"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-09-11 22:57:52 +0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2024-09-11 23:06:59 +0500"
+    },
+    "done": false
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_cherry": "2024-09-11 23:08:50 +0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-09-11 23:13:33 +0500"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2024-09-11 23:15:19 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-09-11 23:15:23 +0500"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-09-11 23:39:15 +0500"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-09-11 23:39:15 +0500"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-09-11 23:44:19 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-09-11 23:53:11 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-09-11 23:54:05 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-09-12 00:28:23 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-12 00:28:23 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-09-12 00:28:23 +0500"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2024-09-12 00:33:22 +0500"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2024-09-12 00:33:22 +0500"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2024-09-12 00:34:14 +0500"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-09-12 00:34:14 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-09-12 00:34:14 +0500"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-09-12 00:34:14 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-12 00:34:46 +0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_cold": "2024-09-12 00:47:44 +0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-09-12 00:52:30 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-09-12 00:59:34 +0500"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-09-12 01:01:57 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-09-12 01:01:58 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-09-12 01:04:41 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-09-12 01:10:29 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2024-09-12 01:43:39 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-09-12 01:51:54 +0500"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2024-09-12 01:54:38 +0500"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2024-09-12 01:54:38 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-12 02:16:02 +0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2024-09-12 03:09:11 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-09-12 03:21:42 +0500"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-09-12 14:54:25 +0500"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "inv_changed": "2024-09-12 15:13:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-12 15:40:03 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-12 15:40:03 +0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-09-12 15:40:06 +0500",
+      "redstone_abyss": "2024-09-12 15:49:15 +0500",
+      "glistering_meadow": "2024-09-12 15:48:46 +0500"
+    },
+    "done": false
+  },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2024-09-12 15:41:34 +0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-09-12 15:52:15 +0500",
+      "minecraft:soul_sand_valley": "2024-09-12 16:38:28 +0500",
+      "minecraft:basalt_deltas": "2024-09-12 16:38:14 +0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-09-12 15:55:00 +0500"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2024-09-12 15:59:40 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-12 16:23:36 +0500"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-09-12 16:32:15 +0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-09-12 16:37:55 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-12 16:38:20 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2024-09-12 16:40:33 +0500",
+      "silicon": "2024-09-12 16:40:38 +0500",
+      "engineering": "2024-09-12 16:40:33 +0500",
+      "logic": "2024-09-12 16:40:33 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-09-12 16:58:04 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2024-09-14 00:06:37 +0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-09-14 00:09:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-09-14 00:29:14 +0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-09-14 00:29:14 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_compressor": {
+    "criteria": {
+      "checkInv": "2024-09-14 00:36:49 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_mixer": {
+    "criteria": {
+      "checkInv": "2024-09-14 00:44:48 +0500"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2024-09-14 00:47:49 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:liquid_compressor": {
+    "criteria": {
+      "0": "2024-09-14 00:47:49 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:etchacid_bucket": {
+    "criteria": {
+      "0": "2024-09-14 00:48:34 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pcb_blueprint": {
+    "criteria": {
+      "0": "2024-09-14 00:48:34 +0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:empty_pcb": {
+    "criteria": {
+      "0": "2024-09-14 00:48:41 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:fire_clay_bricks": {
+    "criteria": {
+      "checkInv": "2024-09-14 01:02:11 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_furnace": {
+    "criteria": {
+      "checkInv": "2024-09-14 01:03:42 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_macerator": {
+    "criteria": {
+      "checkInv": "2024-09-14 01:03:59 +0500"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-09-14 01:05:24 +0500"
+    },
+    "done": false
+  },
+  "modern_industrialization:coke_oven": {
+    "criteria": {
+      "checkInv": "2024-09-14 01:25:16 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2024-09-14 12:42:48 +0500"
+    },
+    "done": true
+  },
+  "modern_industrialization:steam_blast_furnace": {
+    "criteria": {
+      "checkInv": "2024-09-14 12:00:17 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2024-09-14 12:44:51 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-09-14 12:54:56 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-09-14 12:52:35 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2024-09-14 12:51:24 +0500"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-09-14 12:43:30 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
